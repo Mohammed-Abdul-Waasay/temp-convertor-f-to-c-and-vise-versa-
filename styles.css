@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(205, 204, 204);
+}
+#divid{
+    text-align: center;
+    background-color: wheat;
+    max-width: 350px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px hsl(0, 0%, 0% , 0.3);
+
+}
+#input{
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+}
+#buttonid{
+    font-size: 15px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color:rgb(204, 81, 81);
+    cursor: pointer;
+    
+
+
+}
+#buttonid:hover{
+    background-color: rgb(177, 76, 76); ;
+}
